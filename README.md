@@ -24,7 +24,7 @@ I'm always looking for new opportunities to collaborate 🤝 and work on excitin
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/samshot_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassanteslim3" height="30" width="40" /></a>
+<a href="https://twitter.com/samshot_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samshot_01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samshot01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/teslim-hassan-875838169#search" height="30" width="40" /></a>
 <a href="https://fb.com/h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="h" height="30" width="40" /></a>
 
